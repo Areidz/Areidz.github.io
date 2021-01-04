@@ -1,4 +1,4 @@
-# LinkEnt
+# Adaptación de LinkEnt como página de inicio
 
 > A free Linktree alternative built with Next.js and Tailwind.
 
@@ -7,13 +7,13 @@
 
 
 ## Setup
-### Clone LinkEnt using the "new-leaf" branch
+### Clonar LinkEnt con el branch de "new-leaf"
 `git clone -b new-leaf git@github.com:montoulieu/link-ent.git`
 
-### Install all NPM dependencies
+### Instalar todas las dependencias de NPM
 `npm i` 
 
-### Start dev server
+### Lanzar el dev server
 `npm run dev`
 
 ## TODO:
