@@ -9,43 +9,103 @@
 
 <url>
   <loc>https://rigle.xyz/</loc>
-  <lastmod>2021-01-04T12:38:10+00:00</lastmod>
+  <lastmod>2021-01-04T12:52:23+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://rigle.xyz/blog/</loc>
-  <lastmod>2020-12-09T19:44:13+00:00</lastmod>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rigle.xyz/portfolio/</loc>
-  <lastmod>2021-01-04T10:05:19+00:00</lastmod>
+  <lastmod>2021-01-25T16:57:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rigle.xyz/blog/xubuntu-1804-T100/</loc>
-  <lastmod>2020-12-09T19:44:13+00:00</lastmod>
+  <loc>https://rigle.xyz/blog/about/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rigle.xyz/blog/linux-on-asus-transformer/</loc>
-  <lastmod>2020-12-09T19:44:13+00:00</lastmod>
+  <loc>https://rigle.xyz/blog/archives/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rigle.xyz/blog/installing-jekyll-github/</loc>
-  <lastmod>2020-12-09T19:44:13+00:00</lastmod>
+  <loc>https://rigle.xyz/blog/search/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rigle.xyz/blog/github-student-pack/</loc>
-  <lastmod>2020-12-09T19:44:13+00:00</lastmod>
+  <loc>https://rigle.xyz/blog/p/xubuntu-18.04-en-el-t100ta/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rigle.xyz/blog/tags/</loc>
-  <lastmod>2020-12-09T19:44:13+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://rigle.xyz/blog/categories/linux/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/p/linux-on-my-asus-t100ta/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/p/my-first-experience-with-jekyll/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/categories/github/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/p/github-student-pack/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/asus/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/github/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/linux/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/t100ta/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/jekyll/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/student/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/template/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rigle.xyz/blog/tags/themes/</loc>
+  <lastmod>2021-01-26T19:50:39+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
